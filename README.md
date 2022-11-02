@@ -1,7 +1,7 @@
 # tweetcop
 A tool to scan Twitter profiles find tweets that contain hate speech/insults/threats using Perspective API. Saves data to a csv file.
 # Setup
-To use the tool, you will have to obtain API keys for both Perpective API:
+To use the tool, you will have to obtain an API key for Perpective API:
   - perspectiveapi.com
 
   
