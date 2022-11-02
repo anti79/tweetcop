@@ -8,7 +8,7 @@ import argparse
 parser = argparse.ArgumentParser(description='Find reportable tweets by username.')
 
 parser.add_argument('-u', '--username', '--user', action="store", type=str, dest="username",
-default=False, help="The Twitter handle of the account you want to search.", required=True)
+default=False, help="The Twitter handle of the account you want to search, without @.", required=True)
 
 parser.add_argument('-n', '--number', action="store", type=int, dest="number",
 					default=False, help="Number of tweets to scan.")
