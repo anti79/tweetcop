@@ -5,7 +5,7 @@ To use the tool, you will have to obtain an API key for Perpective API:
   - perspectiveapi.com
 
   
-then paste them into the source code (line 24 of scan.py)
+then paste it into the source code (line 23 of scan.py)
 and do `pip install -r requirements.txt` to install the dependencies.
 
 # Usage
