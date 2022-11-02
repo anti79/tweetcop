@@ -10,7 +10,7 @@ and do `pip install -r requirements.txt` to install the dependencies.
 
 # Usage
 ```
-scan.py [-h] [-u USERNAME] [-n NUMBER] [--csv] [--nort]
+scan.py [-h] [-u USERNAME] [-n NUMBER] [--nort]
 
 Find reportable tweets by username.
 
