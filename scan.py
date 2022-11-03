@@ -20,7 +20,7 @@ parser.add_argument('--nort', action="store_true", dest="nort",
 
 args = parser.parse_args()
 
-API_KEY = 'AIzaSyB_nDe7jX0-9DuI0z1U8WwQag5FQ4kJVE4'  # perspective
+API_KEY = ''  # perspective
 
 
 
