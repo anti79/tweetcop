@@ -1,4 +1,4 @@
-# This is obsolute due to a breaking change in the Twitter API.
+# This is obsolete due to a breaking change in the Twitter API.
 ----------
 # tweetcop
 
