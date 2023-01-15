@@ -1,5 +1,4 @@
-# This is obsolete due to a breaking change in the Twitter API.
-----------
+
 # tweetcop
 
 A tool to scan Twitter profiles find tweets that contain hate speech/insults/threats using Perspective API. Saves data to a csv file.
